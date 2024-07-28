@@ -1,5 +1,7 @@
 ## LLMNR Poisoning - Capturing NTLMv2 Hashes
 
+$ ifconfig
+
 ![llmnr-capture-ntlmv2hash-1](https://github.com/user-attachments/assets/bb5bc126-3932-4d78-bf94-5bdab72f4557)
 
 
