@@ -4,6 +4,7 @@ $ ifconfig
 
 ![llmnr-capture-ntlmv2hash-1](https://github.com/user-attachments/assets/bb5bc126-3932-4d78-bf94-5bdab72f4557)
 
+</br>
 
 $ sudo responder -I eth0
 ![llmnr-capture-ntlmv2hash-2](https://github.com/user-attachments/assets/73eaf2a2-3ceb-4bfb-9e29-abcc2e1235d6)
