@@ -1,6 +1,6 @@
 ## LLMNR Poisoning - Capturing NTLMv2 Hashes
 
-$ ifconfig
+$ ifconfig </br>
 $ sudo responder -I eth0
 
 ![llmnr-capture-ntlmv2hash-1](https://github.com/user-attachments/assets/bb5bc126-3932-4d78-bf94-5bdab72f4557)
